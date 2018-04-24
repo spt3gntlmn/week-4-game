@@ -1,0 +1,69 @@
+#banner {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 32px;
+  background-color: lightblue;
+  border: 3px solid  darkblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+  width: 805px;
+  height: auto;
+}
+
+.crystals {
+  height: 162.5px;
+  margin: 10px;
+  border: 3px solid black;
+  background-color: white;
+  
+}
+
+.container {
+  margin: auto;
+  padding: 30px;
+  text-align: center;
+  background-color: lightblue;
+  width: 770px;
+  height: auto;
+}
+
+.standard {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+  width: 470px;
+  height: 50px;
+  background-color: lightblue;
+  border: 3px solid black;
+}
+
+#gameStart {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+  width: 470px;
+  height: auto;
+  background-color: pink;
+  border: 3px solid black;
+}
+
+#win_loss {
+  height: 60px;
+}
+
+#score {
+  height: 10px;
+  vertical-align: auto;
+}
+
+#randomNumDiv {
+  font-size: 32px;
+}
+
+#scoreupdate {
+  font-size: 32px;
+  height: auto;
+
+}
