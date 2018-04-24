@@ -1,11 +1,17 @@
+body {
+   background-image: url("../images/background5.jpg");
+   background-color: #f5f8fa;
+   background-repeat: no-repeat;
+   background-size: 2320px;
+}
 #banner {
   margin: auto;
   padding: 10px;
   text-align: center;
-  font-size: 32px;
+  font-size: 36px;
   background-color: lightblue;
   border: 3px solid  darkblue;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   width: 805px;
   height: auto;
 }
